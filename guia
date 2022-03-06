@@ -1,0 +1,11 @@
+Pasos pasa backend:
+npm i express --save
+npm i cors --save 
+npm i body-parser --save
+npm i mongoose --save 
+npm i nodemon -D
+
+1. Crear app.js y en la terminal poner npm i (luego instalar las dependencias de arriba)
+2. crear config y db (carpetas y js)
+3. crear controller, model y routes(index y el especifico)
+
